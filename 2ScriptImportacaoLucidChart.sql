@@ -1,5 +1,4 @@
-create database baldgk;
-
+--IMPORTACAO LUCIDCHART
 CREATE TABLE "categoria" (
   "cat_cd_id" serial not null,
   "cat_tx_nome" varchar(40) not null,

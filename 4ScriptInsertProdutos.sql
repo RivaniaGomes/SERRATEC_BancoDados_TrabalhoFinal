@@ -19,4 +19,4 @@ values
 ('A Guerra dos Tronos' , 'Jogo de tabuleiro A Guerra dos Tronos Board Game (2ª Edição), Multicor' , 5 , '2018-06-04', 350.00, 3 ,3),
 ('Carcassonne' ,'Jogo de tabuleiro Desenvolvido por Klaus-Jürgen Wrede e publicado em 2000, Carcassonne leva seus jogadores a uma experiência de expandir o território medieval.' , 5 , '2017-07-06', 180.00, 3,3) ,
 ('Arena – The Contest', 'Os maiores guerreiros de diversos povos se enfrentam em batalhas épicas em Arena. Este é um board game de combates táticos entre heróis com diferentes habilidades.' , 6 , '2019-07-05', 250.00 , 2 ,3)	,
-('Mysterium ' , 'Você está mais a fim de um mistério, né? Entendi. Então, não há nada melhor que Mysterium, um jogo cooperativo para unir o pessoal. No game, um dos participantes interpreta o fantasma e todos os outros serão os médiuns.', 5 , '2016-05-03' , 240.00, 2 ,3)
+('Mysterium ' , 'Você está mais a fim de um mistério, né? Entendi. Então, não há nada melhor que Mysterium, um jogo cooperativo para unir o pessoal. No game, um dos participantes interpreta o fantasma e todos os outros serão os médiuns.', 5 , '2016-05-03' , 240.00, 2 ,3);
