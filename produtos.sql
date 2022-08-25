@@ -1,9 +1,22 @@
 insert into produto(prd_tx_nome, prd_tx_descricao, prd_int_quantidade_estoque, prd_dt_data_de_fabricacao, prd_dec_valor_unitario, fun_cd_id, cat_cd_id)
 values 
-('Dragon Ball Z - Blood Of Saiyajins - Goku Super Saiyajin', 'Mais uma figura da coleção blood of saiyajins desta vez com goku em sua versão super saiyajin em figura de 20 cm.', 5,  '2019-1-1', 399.90, 13, 1),
-('Booster - A Guerra da Centelha / Magic The Gathering', 'Booster avulso - A Guerra da Centelha / War of the Spark - Contém 15 cartas', 40,  '2022-05-20', 29.90, 13, 2),
-('Booster - Alara Reunida / Magic The Gathering', 'Booster avulso - Alara Reborn / Alara Reunida - Contém 15 cartas', 40,  '2022-05-20', 174.90, 13, 2),
-('Starter Deck Batalha V Pokémon GO Melmetal', 'Melmetal V dá a si mesmo um aumento de Energia e, em seguida, golpeia o seu oponente causando um dano enorme! Peça reforços de atacantes fortes, como Cobalion e Unfezant, coloque mais Energia em jogo com Perrserker de Galar e tenha ajuda de Magearna para comprar mãos novas.', 5,  '2021-10-10', 59.90, 13, 2),
-('Booster - Espada e Escudo / Pokémon TCG', 'Cada pacote de booster do Pokémon Estampas Ilustradas contém 6 cartas no formato 63mm x 88mm. ', 40,  '2020-03-16', 9.90, 13, 2),
-('Deck de Commander - Dominária Unida - Legado das Lendas (WBR)', '100 cartas prontas para jogar, Pacote de Exemplo de Booster de Colecionador com 2 cards.', 5,  '2022-06-05', 303.90, 13, 2);
-
+('Dragon Ball Z - Blood Of Saiyajins - Goku Super Saiyajin', 'Mais uma figura da coleção blood of saiyajins desta vez com goku em sua versão super saiyajin em figura de 20 cm.', 5,  '2019-1-1', 399.90, 1, 1),
+('Booster - A Guerra da Centelha / Magic The Gathering', 'Booster avulso - A Guerra da Centelha / War of the Spark - Contém 15 cartas', 40,  '2022-05-20', 29.90, 1, 2),
+('Booster - Alara Reunida / Magic The Gathering', 'Booster avulso - Alara Reborn / Alara Reunida - Contém 15 cartas', 40,  '2022-05-20', 174.90, 1, 2),
+('Starter Deck Batalha V Pokémon GO Melmetal', 'Melmetal V dá a si mesmo um aumento de Energia e, em seguida, golpeia o seu oponente causando um dano enorme!', 5,  '2021-10-10', 59.90, 1, 2),
+('Booster - Espada e Escudo / Pokémon TCG', 'Cada pacote de booster do Pokémon Estampas Ilustradas contém 6 cartas no formato 63mm x 88mm. ', 40,  '2020-03-16', 9.90, 1, 2),
+('Deck de Commander - Dominária Unida - Legado das Lendas (WBR)', '100 cartas prontas para jogar, Pacote de Exemplo de Booster de Colecionador com 2 cards.', 5,  '2022-06-05', 303.90, 1, 2),
+('Dragon Ball Z - Goku Careca','Action figure de edição limitada da coleçao, Poder da calvice, Goku em sua forma mais poderosa, tamanho 22cm', 2 , '2020-02-03', 699.90 , 2 ,1),
+('Dragon Ball Z - Kuririn cabeludo','Uma Action Figure de edição limitada da coleção, minoxidil dos deuses, kuririn na sua versão mais rara, tamanho 18 cm', 2 , '2020-03-04', 499.99, 5, 1),
+('One Piece - Roronoa Zoro' , 'Action Figure do anime One piece, Roronoa Zoro, O Sauron de três espadas, tamanho 15cm', 5 , '2019-01-05', 350.00, 4 ,1),
+('Naruto - Naruto Uzumaki', 'Uma action figure do anime naruto,Naruto uzumaki, tamanho 16cm', 5 , '2021-04-06', 269.99 , 2 ,1),
+('Kit Cards Naruto Shippuden' , 'Kit com 6 unidades, cards do anime naruto shippuden' , 100 , '2020-1-1', 10.00, 5, 2),
+('Kit Cards Yu-Gi-Oh' , 'Kit com 10 unidades, cards colecionaveis Yu-Gi-Oh ' , 100, '2015-02-02', 15.00, 2 , 2),
+('Kit Cards Magic The Gathering' ,'Kit com 15 unidades, cards colecionaveis Magic The Gathering, coleção basica', 30 , '2021-05-05', 15.00, 3 ,2),
+('Kit Cards Senhor Dos aneis', 'Kit com 8 unidades, cards senhor dos aneis, cavaleiros de rohan', 20 , '2021-04-06', 12.00, 3 ,2),
+('Kit Cards Pokemon' , 'Kit com 10 unidades, cards colecionaveis pokemon, primeira geração', 60 , '2014-06-02', 14.00, 5 ,2),
+('Galápagos Jogos O Senhor Dos Anéis' , 'Jogo de tabuleiro Jornadas Na Terra Média, Galápagos' , 5 , '2016-05-10', 300.00, 4,3),	
+('A Guerra dos Tronos' , 'Jogo de tabuleiro A Guerra dos Tronos Board Game (2ª Edição), Multicor' , 5 , '2018-06-04', 350.00, 3 ,3),
+('Carcassonne' ,'Jogo de tabuleiro Desenvolvido por Klaus-Jürgen Wrede e publicado em 2000, Carcassonne leva seus jogadores a uma experiência de expandir o território medieval.' , 5 , '2017-07-06', 180.00, 3,3) ,
+('Arena – The Contest', 'Os maiores guerreiros de diversos povos se enfrentam em batalhas épicas em Arena. Este é um board game de combates táticos entre heróis com diferentes habilidades.' , 6 , '2019-07-05', 250.00 , 2 ,3)	,
+('Mysterium ' , 'Você está mais a fim de um mistério, né? Entendi. Então, não há nada melhor que Mysterium, um jogo cooperativo para unir o pessoal. No game, um dos participantes interpreta o fantasma e todos os outros serão os médiuns.', 5 , '2016-05-03' , 240.00, 2 ,3)
