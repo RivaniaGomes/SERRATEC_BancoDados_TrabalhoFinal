@@ -1,3 +1,5 @@
+create database baldgk;
+
 CREATE TABLE "categoria" (
   "cat_cd_id" serial not null,
   "cat_tx_nome" varchar(40) not null,
@@ -12,7 +14,7 @@ CREATE TABLE "funcionario" (
   "fun_tx_cep" varchar(10) not null,
   "fun_tx_rua" varchar(40) not null,
   "fun_int_numero" int4 not null,
-  "fun_tx_telefone" int4 not null,
+  "fun_tx_telefone" varchar(15) not null,
   "fun_tx_email" varchar(40) not null,
   PRIMARY KEY ("fun_cd_id")
 );
