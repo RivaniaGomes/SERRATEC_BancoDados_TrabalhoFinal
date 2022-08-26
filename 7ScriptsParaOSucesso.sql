@@ -47,14 +47,14 @@ select
 c.cat_tx_nome as categoria,
    count(p.cat_cd_id) as quantidade
 from categoria c
-join produto p
+inner join produto p
 on p.cat_cd_id = c.cat_cd_id  
 group by cat_tx_nome;
 
 --Atualização
 UPDATE public.produto
-SET prd_int_quantidade_estoque=40
-WHERE prd_cd_id= 12;
+SET prd_int_quantidade_estoque= 80
+WHERE prd_cd_id = 12;
 
 --Deletar Tabela/Entidade
 drop table nota_fiscal;
