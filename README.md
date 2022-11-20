@@ -18,15 +18,11 @@ Contamos com diversos produtos do mundo nerd, fabricados pelo próprio Rogério,
 
 Nesse novo projeto o intuito é que novos clientes façam cadastro online, assim como as compras. Podendo selecionar vários produtos que serão entregues via transportadora para o endereço cadastrado. As notas fiscais emitidas de cada compra, são encaminhadas automaticamente para o e-mail. O gerenciamento será todo feito via banco de dados automatizado e a manutenção por um funcionário. 
 
-Desenvolvedores:
+  ![Banner BNG](https://github.com/RivaniaGomes/TrabalhoFinalBancoDados/blob/main/imgsTrabalhofinal/BNGbancodedados1.png)        ![Banner BNG 2](https://github.com/RivaniaGomes/TrabalhoFinalBancoDados/blob/main/imgsTrabalhofinal/BNGbancodedados2.png)
 
-:heavy_check_mark:Anthony Barbosa https://github.com/AnthonyBarbosa15
+![Loja Mundo Nerd: BaldGK](https://github.com/RivaniaGomes/TrabalhoFinalBancoDados/blob/main/imgsTrabalhofinal/LojaDemostrativo.png)
 
-:heavy_check_mark:Bárbara Souza https://github.com/barbarasouzza
+## ✒️ Desenvolvedores:
 
-:heavy_check_mark:Gabriel Pinheiro https://github.com/BilPinheiro
-
-:heavy_check_mark:Nathan Dias https://github.com/nathanfdias
-
-:heavy_check_mark:Rivania Gomes https://github.com/RivaniaGomes
-
+| [<img src="https://avatars.githubusercontent.com/u/110867246?v=4" width=115><br><sub>Gabriel Pinheiro</sub>](https://github.com/BilPinheiro) | [<img src="https://avatars.githubusercontent.com/u/110869597?v=4" width=115><br><sub>Anthony Barbosa</sub>](https://github.com/AnthonyBarbosa15) | [<img src="https://avatars.githubusercontent.com/u/104539556?v=4" width=115><br><sub>Nathan Dias</sub>](https://github.com/nathanfdias) | [<img src="https://avatars.githubusercontent.com/u/99817081?v=4" width=115><br><sub>Bárbara Souza</sub>](https://github.com/barbarasouzza) | [<img src="https://avatars.githubusercontent.com/u/106483714?v=4" width=115><br><sub>Rivania Gomes</sub>](https://github.com/RivaniaGomes) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
